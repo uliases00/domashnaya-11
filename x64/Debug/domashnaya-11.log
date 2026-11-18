@@ -1,4 +1,2 @@
 ﻿  domashnaya-11.c
-C:\Users\New\source\repos\domashnaya-11\domashnaya-11\domashnaya-11.c(14,10): error C2057: требуется константное выражение
-C:\Users\New\source\repos\domashnaya-11\domashnaya-11\domashnaya-11.c(14,10): error C2466: невозможно выделить память для массива постоянного нулевого размера
-C:\Users\New\source\repos\domashnaya-11\domashnaya-11\domashnaya-11.c(14,6): error C2133: arr: неизвестный размер
+  domashnaya-11.vcxproj -> C:\Users\New\source\repos\domashnaya-11\x64\Debug\domashnaya-11.exe
